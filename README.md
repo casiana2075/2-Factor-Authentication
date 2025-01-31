@@ -1,4 +1,15 @@
-# 2FA-2-Factor-Authentication-
+# 🔐 2-Factor Authentication System  
+
+**Author:** Maxim Casiana - 2B4  
+
+## 📌 Overview  
+
+This project implements a **Two-Factor Authentication (2FA) system** that ensures secure communication between a **server** and **multiple client applications**. The system enhances authentication security by requiring a secondary verification code before granting access.  
+
+---
+
+## 🚀 How It Works  
+
 A project that have the functionality of a 2FA communication between server and client.
 How does it work:
 I start by storing the predefined list of n apps in a database. Each client app will
